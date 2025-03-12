@@ -1,0 +1,6 @@
+pyspellchecker
+Levenshtein
+transformers
+torch
+django
+djangorestframework
